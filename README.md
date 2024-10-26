@@ -1,4 +1,4 @@
-# Easypanel SDK
+# fix bug of Easypanel SDK
 
 <span><a href="https://www.npmjs.com/package/easypanel-sdk "><img src="https://img.shields.io/npm/v/easypanel-sdk?style=flat&colorA=18181B&colorB=28CF8D" alt="Version"></a> </span> | <span> <a href="https://www.npmjs.com/package/easypanel-sdk"> <img src="https://img.shields.io/npm/dm/easypanel-sdk?style=flat&colorA=18181B&colorB=28CF8D" alt="Downloads"> </a> </span>
 
